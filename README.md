@@ -13,6 +13,18 @@ Database: MySQL
 Frameworks: Java Swing (for GUI) / JavaFX                                                                                  
 IDE: NetBeans / IntelliJ IDEA
 # Installation
-Prerequisites
-🔹 Java Development Kit (JDK) installed
+Prerequisites                                                                                                                            
+🔹 Java Development Kit (JDK) installed                                                                                          
 🔹 MySQL Database (for storing rental data)
+# Usage
+Customer Controls                                                                                                                             
+🔹View available vehicles                                                                                                                   
+🔹Book a vehicle by selecting rental dates                                                                                                     
+🔹Make payments and view transaction history
+
+Admin Controls                                                                                                                             
+🔹Add/update/remove vehicle listings                                                                                                    
+🔹Approve and manage customer bookings                                                                                                                
+🔹Monitor payment transactions
+# Acknowledgments
+Thanks to everyone who contributed to the development of this project! 🎉
