@@ -1,5 +1,6 @@
 # DriveEase - Vehicle Rental System
 DriveEase is a Java-based Vehicle Rental System designed to simplify the process of renting and managing vehicles. The system allows customers to browse available vehicles, make reservations, and manage bookings, while administrators can track vehicle availability and user transactions efficiently.
+![snakeX screenshot](images/ss1.png)
 # Features
 ✅ User Authentication – Secure login for customers and admins.    
 ✅ Vehicle Management – Add, update, or remove vehicles from the system.                                       
